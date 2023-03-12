@@ -1,2 +1,2 @@
 # Project Based Learning - 1
-# Simple Browser uisng Python and PyQt5 
+# Simple Browser using Python and PyQt5 
